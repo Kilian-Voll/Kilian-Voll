@@ -1,4 +1,4 @@
-<main style="background-color:white;">
+<main style="background-color: white;">
 <h3 align="left"> </h3>
 
 <h3 align="left">Languages</h3>
