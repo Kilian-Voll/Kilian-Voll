@@ -1,13 +1,13 @@
 ### Hi there 👋
 
 <h3 align="left">Languages</h3>
-<span align="center">
+<p align="center">
 <img alt="HTML" width="40px" height="40px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/042e36c55d4d757621dedc4f03108213fbb57ec4/others/html.svg" />
 <img alt="CSS" width="40px" height="40px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/042e36c55d4d757621dedc4f03108213fbb57ec4/others/css.svg" />
 <img alt="Javascript" width="40px" height="40px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/042e36c55d4d757621dedc4f03108213fbb57ec4/programming%20languages/javascript.svg" />
 <img alt="Java" width="40px" height="40px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/042e36c55d4d757621dedc4f03108213fbb57ec4/programming%20languages/java.svg" />
 <img alt="C++" width="40px" height="40px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/042e36c55d4d757621dedc4f03108213fbb57ec4/programming%20languages/c%2B%2B.svg" />
-</span>
+</p>
 
 <h3 align="left">Tools</h3>
 <p align="center">
@@ -16,9 +16,9 @@
 </p>
 
  <h3 align="left">Frameworks</h3>
-<span align="center">
+<p align="center">
 <img alt="Vue" width="40px" height="40px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/042e36c55d4d757621dedc4f03108213fbb57ec4/frameworks/vuejs.svg" />
-</span>
+</p>
 <!--
 **Kilian-Voll/Kilian-Voll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
