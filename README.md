@@ -23,9 +23,9 @@
 
 📈 My github stats
 
-<div align="center" style="display: flex; align-items: flex-start;">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=Kilian-Voll&show_icons=true&theme=gotham" alt="Kilian-Voll" style="max-height: 100%; width: auto; margin-right: 20px; flex: 1;" /></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kilian-Voll&hide_progress=true&show_icons=true&theme=gotham" style="max-height: 100%; width: auto; flex: 1;" /></a>
+<div align="center" style="display: flex; align-items: center; justify-content:center;">
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=Kilian-Voll&show_icons=true&theme=gotham" alt="Kilian-Voll" style="max-height: 100%; width: auto; margin-right: 20px;" /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kilian-Voll&hide_progress=true&show_icons=true&theme=gotham" style="max-height: 100%; width: auto;" /></a>
 </div>
 
 <!--
