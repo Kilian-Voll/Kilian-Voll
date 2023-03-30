@@ -12,8 +12,8 @@
 <h3 align="left">Tools</h3>
 <p align="center">
 <img alt="VSCode" width="40px" height="40px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/042e36c55d4d757621dedc4f03108213fbb57ec4/text%20editors/vscode.svg" />
-<img alt="Node.js" width="60px" height="40px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/042e36c55d4d757621dedc4f03108213fbb57ec4/frameworks/nodejs.svg" />
-<img alt="Git" width="60px" height="40px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/042e36c55d4d757621dedc4f03108213fbb57ec4/others/git.svg" />
+<img alt="Node.js" width="60px" height="60px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/042e36c55d4d757621dedc4f03108213fbb57ec4/frameworks/nodejs.svg" />
+<img alt="Git" width="60px" height="60px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/042e36c55d4d757621dedc4f03108213fbb57ec4/others/git.svg" />
 </p>
 
  <h3 align="left">Frameworks</h3>
