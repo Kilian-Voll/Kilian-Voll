@@ -4,10 +4,13 @@
  
 ### About Me 🌟
  
+Im a Computer Science Student at Hochschule Bremerhaven University of Applied Sciences, I have become passionate about creating dynamic, engaging, and responsive web applications in the last few month.
+ 
  ### Current Activites
 
 - 🔭 I’m working on an implementation of the Echo Algorithm 
 - 🌱 I’m learning Parallel Programming in Java
+- 👀 I'm looking for an internship as Fullstack Developer in Germany for my practical semester
  
 ## ⌨️ Languages
  
@@ -39,7 +42,7 @@
   <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=Kilian-Voll&show_icons=true&theme=gotham" alt="Kilian-Voll" title="GitHub-Stats" style="max-height: 100%; width: auto;" /></a>
 </div>
 <div align="center" style="display: flex; align-items: center; justify-content:center; mind-width:300px;">
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kilian-Voll&hide_progress=true&show_icons=true&theme=gotham" title="GitHub-Top-Language" style="max-height: 100%; width: auto;" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kilian-Voll&show_icons=true&theme=gotham" title="GitHub-Top-Language" style="max-height: 100%; width: auto;" /></a>
 </div>
  
 </main>
