@@ -24,7 +24,7 @@
 📈 My github stats
 
 <p align="center"> <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=Kilian-Voll&show_icons=true&theme=gotham" alt="Kilian-Voll" /></a>
- <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kilian-Voll&hide_progress=true" /></a>
+ <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kilian-Voll&hide_progress=true&show_icons=true&theme=gotham" /></a>
  </p>
 <!--
 **Kilian-Voll/Kilian-Voll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
