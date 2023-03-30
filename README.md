@@ -20,6 +20,10 @@
 <p align="center">
 <img alt="Vue" width="40px" height="40px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/042e36c55d4d757621dedc4f03108213fbb57ec4/frameworks/vuejs.svg" />
 </p>
+
+📈 My github stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Kilian-Voll&show_icons=true&theme=gotham" alt="Kilian-Voll" />
 <!--
 **Kilian-Voll/Kilian-Voll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
