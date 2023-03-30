@@ -11,6 +11,7 @@ Im a Computer Science Student at Hochschule Bremerhaven University of Applied Sc
 - 🔭 I’m working on an implementation of the Echo Algorithm 
 - 🌱 I’m learning Parallel Programming in Java
 - 👀 I'm looking for an internship as Fullstack Developer in Germany for my practical semester
+- 📫 How to reach me: **Kilian_Voll@gmx.de** 
  
 ## ⌨️ Languages
  
