@@ -24,10 +24,11 @@
 📈 My github stats
 
 <div align="center" style="display: flex; align-items: center; justify-content:center;">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=Kilian-Voll&show_icons=true&theme=gotham" alt="Kilian-Voll" style="max-height: 100%; width: auto; margin-right: 20px;" /></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kilian-Voll&hide_progress=true&show_icons=true&theme=gotham" style="max-height: 100%; width: auto;" /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=Kilian-Voll&show_icons=true&theme=gotham" alt="Kilian-Voll" style="max-height: 100%; width: auto;" /></a>
 </div>
-
+<div align="center" style="display: flex; align-items: center; justify-content:center;">
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kilian-Voll&hide_progress=true&show_icons=true&theme=gotham" style="max-height: 100%; width: auto;" /></a>
+</div>
 <!--
 **Kilian-Voll/Kilian-Voll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
