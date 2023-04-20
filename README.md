@@ -1,6 +1,6 @@
 <main style="display:flex; justify-content:center; align-items:center">
  
-# Hello there I'm Obi Wan... Hrm-hrm Kilian
+# Hello there, I'm Kilian
  
 ### About Me 🌟
  
