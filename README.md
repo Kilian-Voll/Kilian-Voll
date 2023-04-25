@@ -43,7 +43,7 @@ Im a Computer Science Student at Hochschule Bremerhaven University of Applied Sc
   <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=Kilian-Voll&show_icons=true&theme=gotham" alt="Kilian-Voll" title="GitHub-Stats" style="max-height: 100%; width: auto;" /></a>
 </div>
 <div align="center" style="display: flex; align-items: center; justify-content:center; mind-width:300px;">
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kilian-Voll&show_icons=true&theme=gotham" title="GitHub-Top-Language" style="max-height: 100%; width: auto;" /></a>
+<a href="https://github.com/Kilian-Voll/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kilian-Voll&show_icons=true&theme=gotham" title="GitHub-Top-Language" style="max-height: 100%; width: auto;" /></a>
 </div>
  
 </main>
