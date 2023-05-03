@@ -39,12 +39,22 @@ Im a Computer Science Student at Hochschule Bremerhaven University of Applied Sc
 
 ## 📈 My github stats
 
-<div align="center" style="display: flex; align-items: center; justify-content:center; mind-width:300px;">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=Kilian-Voll&show_icons=true&theme=gotham" alt="Kilian-Voll" title="GitHub-Stats" style="max-height: 100%; width: auto;" /></a>
+<div align="center" style=" min-width:300px; height:200px">
+
+ <a href="https://github.com/anuraghazra/github-readme-stats" style="height:100%; widht:100%; margin-top:0;">
+   <img src="https://github-readme-stats.vercel.app/api?username=Kilian-Voll&show_icons=true&theme=gotham" alt="Kilian-Voll"              
+     title="GitHub-Stats" style="height: 200px; width: 450px;"  />
+ </a>
+ <a href="https://github.com/Kilian-Voll/github-readme-stats" style="height:100%; widht:100%;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kilian-Voll&show_icons=true&theme=gotham" 
+      title="GitHub-Top-Language" style="height: 200px; width: 275px; float:right;" />
+   </a>
+
 </div>
-<div align="center" style="display: flex; align-items: center; justify-content:center; mind-width:300px;">
-<a href="https://github.com/Kilian-Voll/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kilian-Voll&show_icons=true&theme=gotham" title="GitHub-Top-Language" style="max-height: 100%; width: auto;" /></a>
-</div>
+
+<!-- <div align="center" style="display: flex; align-items: center; justify-content:center; mind-width:300px;">
+<a href="https://github.com/Kilian-Voll/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kilian-Voll&show_icons=true&theme=gotham" title="GitHub-Top-Language" style="height: 100%; width: auto;" /></a>
+</div> -->
  
 </main>
 <!--
