@@ -13,6 +13,8 @@ Im a Computer Science Student at Hochschule Bremerhaven University of Applied Sc
 - 👀 I'm looking for an **internship** as **Fullstack Developer** in Germany for my practical semester
 - 📫 How to reach me: **Kilian_Voll@gmx.de** 
  
+ ![Metrics](/github-metrics.svg)
+ 
 ## ⌨️ Languages
  
 <p align="center" style="display:flex; justify-content:center; align-items:center">
