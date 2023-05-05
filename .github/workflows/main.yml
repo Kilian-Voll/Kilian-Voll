@@ -48,3 +48,17 @@ jobs:
           plugin_topics: yes
           plugin_topics_limit: 0
           plugin_topics_mode: icons
+  leetcode:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: LeetCode
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.leetcode.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_leetcode: yes
+          plugin_leetcode_sections: "solved, skills, recent"
+
