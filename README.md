@@ -25,7 +25,7 @@
             </div>
         </div>
         <div class="Techs" align="center">
-            <h2 align="left">Technologien and languages</h2>
+            <h2 align="left">Technologies and languages</h2>
             <img alt="HTML" width="70px" height="70px"
                 src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/042e36c55d4d757621dedc4f03108213fbb57ec4/others/html.svg"
                 title="HTML" />
