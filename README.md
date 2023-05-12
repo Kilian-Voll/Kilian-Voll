@@ -58,7 +58,7 @@
             <div class="stats" style="display:grid; grid-template-row: repeat(3,1fr); grid-template-column: repeat(1,1fr);" align="center">
                 <!--        <img  width="100%" height="100%" src="github-metrics.svg" style="grid-row: 1/1"></img> -->
                 <img width="70%" height="100%" src="metrics.plugin.languages.details.svg" style="grid-row: 2/2; grid-column:1/1;"></img>
-                <img width="70%" height="100%" color="black" src="metrics.plugin.leetcode.svg" style="grid-row: 3/3; grid-column:1/1;">
+                <a href="https://leetcode.com/Kilian_Voll/"><img width="70%" height="100%" color="black" src="metrics.plugin.leetcode.svg" style="grid-row: 3/3; grid-column:1/1;"></a>
             </div>
         </div>
     </div>
