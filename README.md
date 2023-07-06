@@ -19,8 +19,6 @@
             <div class="goals">
                 <p>🔭 I’m working on my <strong>Portfolio</strong></p>
                 <p>🌱 I’m developing my <strong>Javascript</strong> and <strong>CSS</strong> skills</p>
-                <p>👀 I'm looking for an <strong>internship</strong> as <strong>Fullstack Developer</strong> in Germany
-                    for my practical semester</p>
                 <p>📫 How to reach me: <strong> Kilian_Voll@gmx.de </strong> </p>
             </div>
         </div>
