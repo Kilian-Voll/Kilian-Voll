@@ -10,7 +10,7 @@
 <body>
     <div class="content">
         <div class="header">
-            <h1>Hello there, I'm Kilian Voll</h1>
+            <h1>Hello there, I'm Kilian </h1>
             <div class="aboutMe">
                 <p>Im a Computer Science Student at Bremerhaven University of Applied Sciences.</p>
                 <p>In the last few months, I have developed a passion for creating dynamic, engaging, and responsive web
