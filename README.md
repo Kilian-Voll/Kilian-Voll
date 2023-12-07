@@ -18,7 +18,7 @@
             </div>
             <div class="goals">
                 <p>🔭 I’m working on my <strong>Portfolio</strong></p>
-                <p>🌱 I’m developing my <strong>Javascript</strong> and <strong>CSS</strong> skills</p>
+                <p>🌱 I’m developing my <strong>Java, TypeScript</strong> and <strong>SCSS</strong> skills</p>
                 <p>📫 How to reach me: <strong> Kilian_Voll@gmx.de </strong> </p>
             </div>
         </div>
