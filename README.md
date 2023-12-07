@@ -56,7 +56,10 @@
                 title="Spring" />
             <img alt="Git" width="80px" height="80px"
                 src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/042e36c55d4d757621dedc4f03108213fbb57ec4/others/git.svg"
-                title="npm" />
+                title="git" />
+             <img alt="GitLab" width="80px" height="80px"
+                src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/042e36c55d4d757621dedc4f03108213fbb57ec4/cloud/gitlab.svg"
+                title="GitLab" />
             <img alt="" width="80px" height="80px"
                 src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/042e36c55d4d757621dedc4f03108213fbb57ec4/others/npm.svg"
                 title="npm" />
