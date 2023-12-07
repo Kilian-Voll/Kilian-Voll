@@ -33,6 +33,9 @@
             <img alt="Javascript" width="60px" height="60px"
                 src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/042e36c55d4d757621dedc4f03108213fbb57ec4/programming%20languages/javascript.svg"
                 title="Javascript" />
+            <img alt="TypeScript" width="60px" height="60px"
+                src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/042e36c55d4d757621dedc4f03108213fbb57ec4/programming%20languages/typescript.svg"
+                title="TypeScript" />
             <img alt="Java" width="70px" height="70px"
                 src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/042e36c55d4d757621dedc4f03108213fbb57ec4/programming%20languages/java.svg"
                 title="Java" />
