@@ -45,14 +45,27 @@
             <img alt="VSCode" width="50px" height="50px"
                 src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/042e36c55d4d757621dedc4f03108213fbb57ec4/text%20editors/vscode.svg"
                 title="vscode" />
+             <img alt="IntelliJ" width="50px" height="50px"
+                src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/042e36c55d4d757621dedc4f03108213fbb57ec4/ides/intellij.svg"
+                title="IntellJ" />
             <img alt="Node.js" width="80px" height="80px"
                 src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/042e36c55d4d757621dedc4f03108213fbb57ec4/frameworks/nodejs.svg"
                 title="node.js" />
+            <img alt="Spring" width="80px" height="80px"
+                src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/042e36c55d4d757621dedc4f03108213fbb57ec4/frameworks/spring.svg"
+                title="Spring" />
             <img alt="Git" width="80px" height="80px"
                 src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/042e36c55d4d757621dedc4f03108213fbb57ec4/others/git.svg"
-                title="Git" /><img alt="Vue" width="70px" height="70px"
+                title="npm" />
+            <img alt="" width="80px" height="80px"
+                src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/042e36c55d4d757621dedc4f03108213fbb57ec4/others/npm.svg"
+                title="npm" />
+            <img alt="Vue" width="70px" height="70px"
                 src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/042e36c55d4d757621dedc4f03108213fbb57ec4/frameworks/vuejs.svg"
                 title="Vue" />
+            <img alt="react" width="70px" height="70px"
+                src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/042e36c55d4d757621dedc4f03108213fbb57ec4/frameworks/react.svg"
+                title="react" />
         </div>
         <div class="LeetCode">
             <h1></h1>
